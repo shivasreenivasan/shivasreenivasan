@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivasreenivasan
-- 👀 I’m interested in learning about sing R for data analysis and programming
+- 👀 I’m interested in learning about using R for data analysis and programming
 - 🌱 I’m currently learning Health Data Science
 - 💞️ I’m looking to collaborate on nothing yet!
 - 📫 How to reach me - Twitter @SSreenivasan001
